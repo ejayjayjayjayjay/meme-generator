@@ -34,4 +34,4 @@ This project is designed to practice:
 
 This project is deployed and can be accessed at the following link:
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge)](https://https://memes-generator-xp.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-green?style=for-the-badge)](https://memes-generator-xp.netlify.app/)
